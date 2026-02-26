@@ -147,11 +147,12 @@ cont...
 If you use this code or framework in your research, please consider citing:
 
 ```
-@inproceedings{
-      goetting2024endtoend,
-      title={End-to-End Navigation with VLMs: Transforming Spatial Reasoning into Question-Answering},
-      author={Dylan Goetting and Himanshu Gaurav Singh and Antonio Loquercio},
-      booktitle={Workshop on Language and Robot Learning: Language as an Interface},
-      year={2024},
-    }
+@inproceedings{goetting2025end,
+  title={End-to-End Navigation with Vision-Language Models: Transforming Spatial Reasoning into Question-Answering},
+  author={Goetting, Dylan and Singh, Himanshu Gaurav and Loquercio, Antonio},
+  booktitle={International Conference on Neuro-symbolic Systems},
+  pages={22--35},
+  year={2025},
+  organization={PMLR}
+}
 ```
